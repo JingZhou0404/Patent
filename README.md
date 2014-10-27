@@ -14,7 +14,7 @@ Patent
 2. 利用Timer等待来解决这个问题
 3. 在webBrowser1_DocumentCompleted 和 webBrowser1_Navigated中运行js。
 
-代码结构：
+代码结构： 
 
 这个项目当时由于是处理了多个东西，所以有些多余的页面。
 真正有用的文件是Patent / PatentData / PatentData / patentStar.cs 以及 Patent / PatentData / PatentData / SQLHelper.cs
