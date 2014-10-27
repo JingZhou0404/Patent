@@ -1,0 +1,29 @@
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\bin\Debug\PatentData.exe
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\bin\Debug\PatentData.pdb
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.Properties.Resources.resources
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.csproj.GenerateResource.Cache
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.exe
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.pdb
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.patentStar.resources
+c:\users\jingzhou\documents\visual studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.导入Excel数据.resources
+C:\Users\JingZhou\Documents\Visual Studio 2010\Projects\PatentData\PatentData\obj\x86\Debug\PatentData.csprojResolveAssemblyReference.cache
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.exe
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.pdb
+D:\PatentData\PatentData\bin\Debug\PatentData.exe
+D:\PatentData\PatentData\bin\Debug\PatentData.pdb
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.csprojResolveAssemblyReference.cache
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.patentStar.resources
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.导入Excel数据.resources
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.Properties.Resources.resources
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.csproj.GenerateResource.Cache
+D:\PatentData\PatentData\obj\x86\Debug\PatentData.Baiten.resources
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.exe
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.pdb
+C:\Users\JingZhou\Desktop\PatentData\PatentData\bin\Debug\PatentData.exe
+C:\Users\JingZhou\Desktop\PatentData\PatentData\bin\Debug\PatentData.pdb
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.csprojResolveAssemblyReference.cache
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.Baiten.resources
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.patentStar.resources
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.导入Excel数据.resources
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.Properties.Resources.resources
+C:\Users\JingZhou\Desktop\PatentData\PatentData\obj\x86\Debug\PatentData.csproj.GenerateResource.Cache
